@@ -1,0 +1,12 @@
+Color sheet:
+
+Header/ trim: #08d0d0
+
+
+Nav text: #168989
+nav hover text: #26baba
+
+Nav-bar grdient : #8defef to #08b1b1
+tab graidents: #e0f8f8 no gradient
+
+Callout color: #cd1d62
