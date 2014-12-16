@@ -1,8 +1,8 @@
 <?php
     
 	if($_POST){
-		//$speechEmail = "mastermalone@gmail.com";
-		$speechEmail = "asst@speechwithinreachla.com";
+		$speechEmail = "nikkib7@gmail.com";
+		//$speechEmail = "asst@speechwithinreachla.com";
 		$subjectLine ="Speech Within Reach Referral";
 		
 		//Make sure the request is an AJAX call

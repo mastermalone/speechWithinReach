@@ -689,6 +689,20 @@ body {
   font-size: 15px;
   font-weight: bold;
 }
+.main-wrap .main-content #cks-content .blog .info-block {
+  width: auto;
+  height: auto;
+}
+.main-wrap .main-content #cks-content .blog .info-block a {
+  color: #00b9bd;
+  font-size: 16px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+.main-wrap .main-content #cks-content .blog .info-block a:hover {
+  text-decoration: underline;
+}
 .main-wrap .footer {
   position: relative;
   border-radius: 0px 0px 10px 10px;

@@ -555,6 +555,22 @@ body{
           }
         }
       }
+      .blog{
+        .info-block{
+          width:auto;
+          height:auto;
+          a{
+            color: #00b9bd;
+            font-size: 16px;
+            font-weight: bold;
+            padding-bottom: 10px;
+            text-decoration:none;
+            &:hover{
+              text-decoration:underline;
+            }
+          }
+        }
+      }
     }
     
   }

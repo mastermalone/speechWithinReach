@@ -60,6 +60,7 @@
 				SiteUtils.popCalendar("dotw");
 			});*/
 			SiteUtils.popCalendar("dotw");
+			SiteUtils.addYear("year");
 		}
 		initSite();
 	});
@@ -263,5 +264,10 @@ var SiteUtils = {
 				return;
 			}			
 		});
+	},
+	'addYear': function(obj){
+		var dt = new Date();
+		var yr = dt.getFullYear();
+		$("#"+obj).html(yr);
 	}
 };
