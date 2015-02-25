@@ -228,12 +228,13 @@ body {
 }
 .main-wrap #header .top-header .top-nav #logo .logo-text {
   display: inline-block;
-  float: left;
+  clear: both;
+  /*float:left;*/
   overflow: hidden;
   color: #ffffff;
   font-size: 14px;
   font-weight: bold;
-  margin: 40px 0px 0px 5px;
+  margin: 10px 0px 0px 5px;
 }
 .main-wrap #header .top-header .top-nav #logo .logo-text span {
   display: inline-block;
